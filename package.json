@@ -1,0 +1,11 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "description": "practice app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Geno Guerrero"
+}
