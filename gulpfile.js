@@ -48,4 +48,4 @@ gulp.task('watch', function() {
   gulp.watch('builds/development/images/**/*.*', ['images']);
 });
 
-gulp.task('default',  ['coffee', 'js', 'compass']);
+gulp.task('default',  ['coffee', 'js', 'compass', 'watch']);
