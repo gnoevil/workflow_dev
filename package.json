@@ -1,11 +1,14 @@
 {
   "name": "my_app",
   "version": "1.0.0",
-  "description": "practice app"
-  },
+  "description": "practice app",
   "repository": {
     "type": "git",
     "url": "?.git"
   },
-  "author": "Geno Guerrero"
+  "author": "Geno Guerrero",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
 }
