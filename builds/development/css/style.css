@@ -82,6 +82,13 @@ h1 {
   }
 }
 
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  position: relative;
+}
+
 h2 {
   font-size: 1.5em;
   color: #3E2B3D;
@@ -280,13 +287,6 @@ section {
   width: 20%;
   min-width: 120px;
   max-width: 160px;
-}
-
-.container {
-  width: 90%;
-  max-width: 1000px;
-  margin: 0 auto;
-  position: relative;
 }
 
 .pixgrid img {
